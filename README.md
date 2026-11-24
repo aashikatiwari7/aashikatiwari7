@@ -9,7 +9,7 @@
 | Category | Technologies |
 |----------|--------------|
 | Languages | Python (Beginner), Bash / Shell Scripting |
-| Tools | Git, GitHub, VS Code, Linux Terminal, curl, Postman |
+| Tools | Git, GitHub, VS Code, Linux Terminal|
 | Concepts | File Systems, Process Management, REST APIs, Markdown |
 
 ## Featured Projects
@@ -22,5 +22,5 @@
 - Semester 1 lab projects and building daily problem-solving habits
 
 ## Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/your-profile-id](https://www.linkedin.com/in/your-profile-id)
+- LinkedIn:www.linkedin.com/in/aashika-tiwari-bb491334a
 - Email: 2601010241@krmu.edu.in
